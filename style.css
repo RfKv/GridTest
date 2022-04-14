@@ -18,6 +18,10 @@
 	color: white;
 }
 
+.active{
+	backgroundColor: #333333;
+}
+
 #menu li:hover{
 	background-color: #333333;
 }
@@ -42,4 +46,7 @@
 	height: 50px;
 }
 
+.fighter{
+	color: red;
+}
 
